@@ -4,7 +4,7 @@ import AboutPage from '../components/AboutPage';
 import PortfolioPage from '../components/PortfolioPage';
 import Header from '../components/Header';
 import ContactPage from '../components/ContactPage';
-import NotFoundPage from '../components/NotFoundpage';
+import NotFoundPage from '../components/NotFoundPage';
 
 const AppRouter = () => (
     <BrowserRouter>
