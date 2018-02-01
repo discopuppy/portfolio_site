@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+}
+
+.aboutPage__container {
+    
+    //text-align: center;
+    margin-left: 4rem;
+    //margin-top: 5rem;
+    //margin-left: 2rem;
+    margin-bottom: 12rem;
+    padding: 0 $m-size;
+    width: 50%;
+    //max-width: 30rem;
+    //padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.8);
+    //background-color: rgba(#EAE1D1, 0.8);
+    //background-color: rgba(tan, 0.8);
+    border-radius: 25px;//1%;
+    //border: 1px black solid;
+    //max-width: 90rem;
+    h1 {
+        font-weight: normal;
+        //color: white;
+        color: black;
+    }
+
+    p {
+        color: black;
+        //color: white;
+    }
+    //border: 1px black solid;
+    
+}
+
+.hiddenDiv {
+    width: 30%;
+}
+
+.profilePic {
+    border-radius: 50%;
+}
+
+.about__title {
+    margin-bottom: 0;
+    //text-align: center;
+}
+.about__subtitle {
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+    font-size: 125%;
+    //text-align: center;
+}
+
+.education__subtitle {
+    margin-top: 6rem;
+    margin-bottom: 0;
+    //text-align: center;
+}
+
+.school {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    //text-align: center;
+}
+
+.major {
+    margin-top: .25rem;
+    margin-bottom: 0;
+    //text-align: center;
+}
+
+.bachelor {
+    margin-top: .25rem;
+    font-style: italic;
+    font-size: 85%;
+    //text-align: center;
+    //margin-bottom: 10rem;
+}
